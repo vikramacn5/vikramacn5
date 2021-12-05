@@ -1,4 +1,4 @@
-![Vikram Banner](https://raw.githubusercontent.com/vikramacn5/vikramacn5/master/assets/mark4-banner.jpeg)
+![Vikram Banner](https://raw.githubusercontent.com/vikramacn5/vikramacn5/master/assets/mark4-banner-2.jpeg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
