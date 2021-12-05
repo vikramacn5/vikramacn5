@@ -10,7 +10,7 @@
 📄 &nbsp;Please have a look at my [Resume](https://mark4.netlify.app/img/resume.pdf).\
 🌐 &nbsp;Please have a look at my [Website](https://mark4.netlify.app) for more details about me. I'm open to feedback and suggestions!
 
-&nbsp;\
+&nbsp;
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/vikramacn5/vikramacn5/master/assets/Night-Coding.gif" align="right"/>
 
@@ -28,7 +28,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-&nbsp;\
+&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
